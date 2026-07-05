@@ -15,7 +15,7 @@ Software Architect with a focus on AI-powered systems and Azure cloud architectu
 - 🎙️ **[AI Meeting Coach](https://github.com/wellaya/ai-meeting-coach)** — Open-source, local-first desktop app giving real-time AI coaching during meetings, using Whisper for transcription, Ollama for local LLM reasoning, and a RAG pipeline grounded in your own project docs.
 - 🚗 **[Enterprise Rental Management Platform](https://github.com/wellaya/Rental-Management-Platform-.NET-Onion-Architecture)** — .NET/Angular rental platform built on Onion Architecture, designed for extensibility beyond its initial vehicle-rental scope (cottages, hotels, boats, equipment) via interface-based abstraction, DI, and SOLID principles — with full unit and integration test coverage.
 - 💬 **[ChatCordinator](https://github.com/wellaya/ChatCordinator)** — Proof-of-concept exploring event-driven service coordination: a SignalR-based chat service and a separate coordinator service communicate asynchronously via RabbitMQ/MassTransit, with CQRS (MediatR) used internally in both. Built to explore decoupling real-time client delivery from backend coordination logic.
-
+- 🏢 **[Multi-tenant SaaS Platform](https://github.com/wellaya/saas-platform)** — Full-stack SaaS starter built as a Turborepo monorepo with Next.js and Express, featuring row-level multi-tenant isolation, JWT-based auth verification independent of the frontend session layer, and idempotent Stripe subscription billing backed by Redis. Dockerized for local development with a full CI/CD pipeline via GitHub Actions.
 
 ## Connect
 - LinkedIn: [priyanthapushpakumara](https://www.linkedin.com/in/priyanthapushpakumara/)
