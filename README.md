@@ -1,6 +1,6 @@
 # Hi, I'm Priyantha 👋
 
-Software Architect with a focus on AI-powered systems and Azure cloud architecture. I design and build solutions that combine distributed systems thinking with applied AI — from event-driven backends to local-first AI applications.
+Building intelligent software with Azure, AI, and modern full-stack technologies. I focus on cloud-native architectures, distributed systems, and AI-powered applications that are scalable, reliable, and built to solve real-world business problems.
 
 ## What I work on
 - **Cloud architecture**: Azure (App Services, Functions, API Management, Service Bus, AD, Managed Identity), Infrastructure as Code (Bicep)
