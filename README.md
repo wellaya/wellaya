@@ -17,6 +17,3 @@ Building intelligent software with Azure, AI, and modern full-stack technologies
 - 💬 **[ChatCordinator](https://github.com/wellaya/ChatCordinator)** — Proof-of-concept exploring event-driven service coordination: a SignalR-based chat service and a separate coordinator service communicate asynchronously via RabbitMQ/MassTransit, with CQRS (MediatR) used internally in both. Built to explore decoupling real-time client delivery from backend coordination logic.
 - 🏢 **[Multi-tenant SaaS Platform](https://github.com/wellaya/saas-platform)** — Full-stack SaaS starter built as a Turborepo monorepo with Next.js and Express, featuring row-level multi-tenant isolation, JWT-based auth verification independent of the frontend session layer, and idempotent Stripe subscription billing backed by Redis. Dockerized for local development with a full CI/CD pipeline via GitHub Actions.
 
-## Connect
-- LinkedIn: [priyanthapushpakumara](https://www.linkedin.com/in/priyanthapushpakumara/)
-- Location: Australia
