@@ -11,6 +11,8 @@ Building intelligent software with Azure, AI, and modern full-stack technologies
 - **Practices**: CQRS, Onion/Clean Architecture, CI/CD, RBAC & security-first design
 
 ## Featured work
+- 🔄 **[SimpleMapper](https://github.com/wellaya/SimpleMapper)** — Lightweight, dependency-free object-to-object mapper for .NET, built as an open-source library focused on simple, clean, and efficient model mapping.
+
 - 🤖 **[DocuAgent](https://github.com/wellaya/docuagent)** — Agentic RAG assistant on Azure AI Foundry combining Document Intelligence, Azure AI Search (hybrid vector index), and a tool-calling agent (search + computer vision) with Content Safety gating and Application Insights tracing. Infrastructure fully defined in Bicep. *In progress.*
 - 🎙️ **[AI Meeting Coach](https://github.com/wellaya/ai-meeting-coach)** — Open-source, local-first desktop app giving real-time AI coaching during meetings, using Whisper for transcription, Ollama for local LLM reasoning, and a RAG pipeline grounded in your own project docs.
 - 🚗 **[Enterprise Rental Management Platform](https://github.com/wellaya/Rental-Management-Platform-.NET-Onion-Architecture)** — .NET/Angular rental platform built on Onion Architecture, designed for extensibility beyond its initial vehicle-rental scope (cottages, hotels, boats, equipment) via interface-based abstraction, DI, and SOLID principles — with full unit and integration test coverage.
