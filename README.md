@@ -11,6 +11,8 @@ Building intelligent software with Azure, AI, and modern full-stack technologies
 - **Practices**: CQRS, Onion/Clean Architecture, CI/CD, RBAC & security-first design
 
 ## Featured work
+- 🎧 **[Multi-Agent Support Assistant](https://github.com/wellaya/multi-agent-support-assistant)** — Agentic support-triage system: a LangGraph state graph (triage → retrieve → draft → decide) sits behind FastAPI, grounding replies in a Qdrant + sentence-transformers RAG pipeline and drafting through a provider-agnostic Claude layer. Includes regex-based input/output guardrails, a SQLite audit log and human-in-the-loop approval queue, and a live-API eval suite kept separate from the free offline test suite/CI.
+
 - 🔄 **[SimpleMapper](https://github.com/wellaya/SimpleMapper)** — Lightweight, dependency-free object-to-object mapper for .NET, built as an open-source library focused on simple, clean, and efficient model mapping.
 
 - 🤖 **[DocuAgent](https://github.com/wellaya/docuagent)** — Agentic RAG assistant on Azure AI Foundry combining Document Intelligence, Azure AI Search (hybrid vector index), and a tool-calling agent (search + computer vision) with Content Safety gating and Application Insights tracing. Infrastructure fully defined in Bicep. *In progress.*
